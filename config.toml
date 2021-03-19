@@ -130,55 +130,55 @@ hasChildren = true
   parent = "Reviews"
   weight = 1
   url = "/crypto-com-review"
-  name = "Reviews"
+  name = "Crypto.com Review"
+
+[[menu.main]]
+weight = 5
+url = "#"
+name = "How to Buy"
+hasChildren = true
 
   [[menu.main]]
+  parent = "How to Buy"
+  weight = 1
+  url = "buy-bitcoin/"
+  name = "Bitcoin"
+
+  [[menu.main]]
+  parent = "How to Buy"
+  weight = 2
+  url = "buy-cardano/"
+  name = "Cardano"
+
+  [[menu.main]]
+  parent = "How to Buy"
+  weight = 3
+  url = "buy-ethereum/"
+  name = "Ethereum"
+
+  [[menu.main]]
+  parent = "How to Buy"
+  weight = 4
+  url = "buy-polkadot/"
+  name = "Polkadot"
+
+  [[menu.main]]
+  parent = "How to Buy"
   weight = 5
-  url = "#"
-  name = "How to Buy"
-  hasChildren = true
+  url = "buy-reef/"
+  name = "Reef"
 
-    [[menu.main]]
-    parent = "How to Buy"
-    weight = 1
-    url = "buy-bitcoin/"
-    name = "Bitcoin"
+  [[menu.main]]
+  parent = "How to Buy"
+  weight = 6
+  url = "buy-nexo/"
+  name = "Nexo"
 
-    [[menu.main]]
-    parent = "How to Buy"
-    weight = 2
-    url = "buy-cardano/"
-    name = "Cardano"
-
-    [[menu.main]]
-    parent = "How to Buy"
-    weight = 3
-    url = "buy-ethereum/"
-    name = "Ethereum"
-
-    [[menu.main]]
-    parent = "How to Buy"
-    weight = 4
-    url = "buy-polkadot/"
-    name = "Polkadot"
-
-    [[menu.main]]
-    parent = "How to Buy"
-    weight = 5
-    url = "buy-reef/"
-    name = "Reef"
-
-    [[menu.main]]
-    parent = "How to Buy"
-    weight = 6
-    url = "buy-nexo/"
-    name = "Nexo"
-
-    [[menu.main]]
-    parent = "How to Buy"
-    weight = 6
-    url = "buy-cro/"
-    name = "CRO"
+  [[menu.main]]
+  parent = "How to Buy"
+  weight = 6
+  url = "buy-cro/"
+  name = "CRO"
 
 
 
