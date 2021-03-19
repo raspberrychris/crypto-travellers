@@ -81,7 +81,7 @@ search = true
 # main section
 mainSections = ["blog"]
 # copyright
-copyright = "Designed & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright 2021 [Cryptotravellers.com](https://cryptotravellers.com/)"
 
 # Preloader
 [params.preloader]
