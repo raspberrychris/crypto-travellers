@@ -68,7 +68,7 @@ color_primary = "#01AD9F"
 
 #################### default parameters ################################
 [params]
-logo = "images/crypto-travellers-logo.webp"
+logo = "images/crypto-travellers.png"
 logo_height = "35px"
 favicon = "images/favicon.png"
 # Meta data
