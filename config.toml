@@ -138,12 +138,6 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  weight = 1
-  url = "author/"
-  name = "Author"
-
-  [[menu.main]]
-  parent = "Pages"
   weight = 2
   url = "tags/"
   name = "Tags"
@@ -230,8 +224,8 @@ name = "About"
 
 [[menu.footer]]
 weight = 2
-url = "author/"
-name = "Authors"
+url = "contact/"
+name = "Contact"
 
 [[menu.footer]]
 weight = 3
