@@ -120,6 +120,18 @@ weight = 2
 url = "/guides"
 name = "Guides"
 
+[[menu.main]]
+weight = 3
+url = "/reviews"
+name = "Reviews"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Reviews"
+  weight = 1
+  url = "/crypto-com-review"
+  name = "Reviews"
+
   [[menu.main]]
   weight = 5
   url = "#"
