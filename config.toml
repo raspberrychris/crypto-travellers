@@ -181,43 +181,43 @@ hasChildren = true
     [[menu.main]]
     parent = "How to Buy"
     weight = 1
-    url = "bitcoin/"
+    url = "buy-bitcoin/"
     name = "Bitcoin"
 
     [[menu.main]]
     parent = "How to Buy"
     weight = 2
-    url = "cardano/"
+    url = "buy-cardano/"
     name = "Cardano"
 
     [[menu.main]]
     parent = "How to Buy"
     weight = 3
-    url = "ethereum/"
+    url = "buy-ethereum/"
     name = "Ethereum"
 
     [[menu.main]]
     parent = "How to Buy"
     weight = 4
-    url = "polkadot/"
+    url = "buy-polkadot/"
     name = "Polkadot"
 
     [[menu.main]]
     parent = "How to Buy"
     weight = 5
-    url = "reef/"
+    url = "buy-reef/"
     name = "Reef"
 
     [[menu.main]]
     parent = "How to Buy"
     weight = 6
-    url = "nexo/"
+    url = "buy-nexo/"
     name = "Nexo"
 
     [[menu.main]]
     parent = "How to Buy"
     weight = 6
-    url = "cro/"
+    url = "buy-cro/"
     name = "CRO"
 
 
