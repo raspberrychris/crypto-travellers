@@ -1,22 +1,18 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Is Bitcoin an Inflation Hedge?"
 description: "meta description"
 image: "images/post/01.jpg"
 date: 2021-02-05T16:56:47+06:00
 draft: false
 author: "Lubana Era"
-tags: ["Diy", "Toy"]
-categories: ["LifeStyle"]
+tags: ["Bitcoin"]
+categories: ["Crypto"]
 toc: true
 ---
 
-This is a post about bitcoin
-
-this is a test  
-
 ## Introduction
 
-Blah blah lorem ipsum
+Hardcore Bitcoin enthusiasts say the digital coin is the world’s best hedge against rising consumer prices. The logic: Unlike U.S. dollars or any other normal currency, it’s designed to have a limited supply, so it can’t be devalued by a government or a central bank distributing too much of it.
 
 ## Creative Design
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
