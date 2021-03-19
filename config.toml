@@ -167,6 +167,48 @@ hasChildren = true
   url = "terms-conditions/"
   name = "Terms & Conditions"
 
+  [[menu.main]]
+  weight = 5
+  url = "#"
+  name = "How to Buy"
+  hasChildren = true
+
+    [[menu.main]]
+    parent = "How to Buy"
+    weight = 1
+    url = "bitcoin/"
+    name = "Bitcoin"
+
+    [[menu.main]]
+    parent = "How to Buy"
+    weight = 2
+    url = "cardano/"
+    name = "Cardano"
+
+    [[menu.main]]
+    parent = "How to Buy"
+    weight = 3
+    url = "ethereum/"
+    name = "Ethereum"
+
+    [[menu.main]]
+    parent = "How to Buy"
+    weight = 4
+    url = "polkadot/"
+    name = "Polkadot"
+
+    [[menu.main]]
+    parent = "How to Buy"
+    weight = 5
+    url = "Reef/"
+    name = "reef"
+
+    [[menu.main]]
+    parent = "How to Buy"
+    weight = 6
+    url = "nexo/"
+    name = "Nexo"
+
 ############################# Footer Menu ########################
 [[menu.footer]]
 weight = 1
