@@ -64,7 +64,7 @@ black = "#000000"
 dark = "#152035"
 gray = "#747577"
 light = "#FAFAFA"
-color_primary = "#01AD9F"
+color_primary = "#f2a900"
 
 #################### default parameters ################################
 [params]
