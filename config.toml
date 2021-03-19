@@ -116,7 +116,7 @@ url = "/"
 name = "Home"
 
 [[menu.main]]
-weight = 1
+weight = 2
 url = "/guides"
 name = "Guides"
 
