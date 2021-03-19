@@ -116,6 +116,11 @@ url = "/"
 name = "Home"
 
 [[menu.main]]
+weight = 1
+url = "/guides"
+name = "Guides"
+
+[[menu.main]]
 weight = 3
 url = "about"
 name = "About"
@@ -200,14 +205,22 @@ hasChildren = true
     [[menu.main]]
     parent = "How to Buy"
     weight = 5
-    url = "Reef/"
-    name = "reef"
+    url = "reef/"
+    name = "Reef"
 
     [[menu.main]]
     parent = "How to Buy"
     weight = 6
     url = "nexo/"
     name = "Nexo"
+
+    [[menu.main]]
+    parent = "How to Buy"
+    weight = 6
+    url = "cro/"
+    name = "CRO"
+
+
 
 ############################# Footer Menu ########################
 [[menu.footer]]
@@ -222,8 +235,8 @@ name = "Authors"
 
 [[menu.footer]]
 weight = 3
-url = "privacy/"
-name = "Privacy"
+url = "privacy-policy/"
+name = "Privacy Policy"
 
 [[menu.footer]]
 weight = 4
