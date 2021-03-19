@@ -120,42 +120,6 @@ weight = 2
 url = "/guides"
 name = "Guides"
 
-[[menu.main]]
-weight = 5
-url = "#"
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  weight = 2
-  url = "tags/"
-  name = "Tags"
-
-  [[menu.main]]
-  parent = "Pages"
-  weight = 3
-  url = "categories/"
-  name = "Category"
-
-  [[menu.main]]
-  parent = "Pages"
-  weight = 4
-  url = "elements/"
-  name = "Elements"
-
-  [[menu.main]]
-  parent = "Pages"
-  weight = 5
-  url = "privacy/"
-  name = "Privacy"
-
-  [[menu.main]]
-  parent = "Pages"
-  weight = 6
-  url = "terms-conditions/"
-  name = "Terms & Conditions"
-
   [[menu.main]]
   weight = 5
   url = "#"
