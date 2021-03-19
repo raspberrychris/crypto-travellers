@@ -1,0 +1,3 @@
+[submodule "themes/Table-of-Content"]
+	path = themes/Table-of-Content
+	url = https://github.com/ccthecode/Table-of-Content.git
