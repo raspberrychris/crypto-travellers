@@ -121,16 +121,6 @@ url = "/guides"
 name = "Guides"
 
 [[menu.main]]
-weight = 3
-url = "about"
-name = "About"
-
-[[menu.main]]
-weight = 4
-url = "contact"
-name = "Contact"
-
-[[menu.main]]
 weight = 5
 url = "#"
 name = "Pages"
