@@ -1,7 +1,7 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/assets/style.css',
+    '/assets/css/custom.css',
     '/manifest.json',
     '/pwa/favicon.ico'
 ];
@@ -12,7 +12,7 @@ const OFFLINE_CACHE_FILES = [
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    '/assets/style.css',
+    '/assets/css/custom.css',
     '/layouts/404.html',
 ];
 
