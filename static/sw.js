@@ -7,7 +7,7 @@ const BASE_CACHE_FILES = [
 ];
 
 const OFFLINE_CACHE_FILES = [
-    '/assets/style.css',
+    '/assets/css/style.css',
     '/layouts/404.html',
 ];
 
