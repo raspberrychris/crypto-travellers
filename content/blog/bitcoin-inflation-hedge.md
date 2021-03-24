@@ -1,6 +1,6 @@
 ---
 title: "Is Bitcoin an Inflation Hedge?"
-description: "meta description"
+description: "Find out if you should invest in bitcoin as a way to hedge against inflation. We'll explore the pros and cons of this cryptocurrency, including potential risks."
 image: "images/post/01.jpg"
 date: 2021-02-05T16:56:47+06:00
 draft: false
