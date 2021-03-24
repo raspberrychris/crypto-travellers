@@ -19,7 +19,7 @@ All you have to do is to complete sign up, pass KYC verification and you will ge
 
 You get $25 USD* in CRO in your CRO Wallet instantly once you have successfully reserved a Metal Crypto.com Visa Card.
 
-## Pros and cons
+## Pros and Cons
 
 **Pros**
 

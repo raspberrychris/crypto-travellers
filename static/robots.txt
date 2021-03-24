@@ -1,6 +1,7 @@
 User-agent: *
-Disallow: /
 Disallow: /tags/
 Disallow: /categories/
 Disallow: /page/
 Disallow: /link/
+
+Sitemap: https://cryptotravellers.com/sitemap.xml
