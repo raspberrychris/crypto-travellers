@@ -1,7 +1,7 @@
 +++
 title = "The Latest"
 date = 2020-11-27T13:47:10+01:00
-draft = false
+draft = true
 author = "William Cook"
 tags = ["Latest", "Post"]
 categories = ["developer"]
@@ -88,4 +88,3 @@ variables.
 
 Given a hypothetical set of data at a Toys “R” Us store, you can see how
 it works.
-
