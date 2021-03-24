@@ -12,7 +12,7 @@ googleAnalytics = "" # example : UA-123-45
 disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
-
+theme = "Table-of-Content"
 
 
 ############################# Outputs ##############################
