@@ -11,7 +11,7 @@ toc: true
 
 ## Get $25 US in CRO by setting up a Crypto.com account using our link!
 
-[Crypto.com](https://crypto.com/app/pb4s6fy235) is one of the top exchanges when it comes to cryptocurrency.  
+[Crypto.com](/link/sign-up-crypto-dot-com) is one of the top exchanges when it comes to cryptocurrency.  
 
 ## How does it work?
 
@@ -27,7 +27,7 @@ You get $25 USD* in CRO in your CRO Wallet instantly once you have successfully 
 - 24/7 customer support.
 - Available in the UK, Europe, the United States, Canada, and Singapore.
 - Purchase and offer 90+ cryptocurrencies, including Bitcoin (BTC), at the genuine currency exchange rate.
-- It is 100% **FREE** to open a [Crypto.com](https://crypto.com/app/pb4s6fy235) account.
+- It is 100% **FREE** to open a [Crypto.com](/link/sign-up-crypto-dot-com) account.
 - The Crypto.com Visa Card has zero month-to-month maintenance charge or monthly fee.
 - You can get as much as 8% cashback whenever you use your Crypto.com Visa Card. You can also get other advantages (like 100% cashback on Spotify, Netflix, and Amazon Prime).
 - Contactless Visa Debit cards (released and delivered free of charge).
@@ -41,9 +41,9 @@ You get $25 USD* in CRO in your CRO Wallet instantly once you have successfully 
 
 ## Crypto.com Metal Cards
 
-[Crypto.com](https://crypto.com/app/pb4s6fy235) is one of the top cryptocurrency platforms. It allows you to save, transfer, and exchange between 90+ cryptocurrencies (Bitcoin, Ethereum, Cardano etc.) and your local currency (e.g. GBP, EUR, USD, and 20 other fiat currencies).
+[Crypto.com](/link/sign-up-crypto-dot-com) is one of the top cryptocurrency platforms. It allows you to save, transfer, and exchange between 90+ cryptocurrencies (Bitcoin, Ethereum, Cardano etc.) and your local currency (e.g. GBP, EUR, USD, and 20 other fiat currencies).
 
-With the [Crypto.com](https://crypto.com/app/pb4s6fy235) Visa Card, you can also spend your cryptocurrency anywhere that Visa is normally accepted around the world (and get up to 8% back).
+With the [Crypto.com](/link/sign-up-crypto-dot-com) Visa Card, you can also spend your cryptocurrency anywhere that Visa is normally accepted around the world (and get up to 8% back).
 
 ## Is it the best Crypto Card?
 
